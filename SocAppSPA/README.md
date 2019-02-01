@@ -1,6 +1,7 @@
 # SocAppSPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+After clone this repository install node modules. Navigate to SocAppSpa directory and in the command prompt type:
+`npm install -g node-modules`
 
 ## Development server
 
